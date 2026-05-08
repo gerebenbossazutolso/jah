@@ -1,1 +1,1 @@
-print("helloszia")
+print("ez az elso munkam.")
