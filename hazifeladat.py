@@ -1,1 +1,1 @@
-print("ez az elso munkam.")
+print("ez a masodik munkam.")
